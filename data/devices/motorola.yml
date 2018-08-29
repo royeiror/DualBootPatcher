@@ -1231,9 +1231,10 @@
   id: albus
   codenames:
     - albus
-    - xt1710-6
-    - xt1710-8
-    - xt1710-9
+    - albus_retail
+    - xt1710-06
+    - xt1710-08
+    - xt1710-09
   architecture: arm64-v8a
 
   block_devs:
